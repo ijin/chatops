@@ -1,5 +1,5 @@
 # branch rules
 
-`develop` -> `staging` -> `production`
+`develop` -> `staging` -> `master`
 
 
